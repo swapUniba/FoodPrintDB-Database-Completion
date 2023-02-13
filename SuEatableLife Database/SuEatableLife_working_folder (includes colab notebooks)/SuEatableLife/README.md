@@ -1,6 +1,7 @@
 # SuEatableLife
 
 This folder contains working files used by the scripts in the folder on the previous level.
+
 The folder is so organized:
 *   "_Finalized" contains the final "cfp_wfp_ingredients.csv" that represent the CSEL dataset, is the final result of the [SuEatableLife_data_extractor.ipynb](https://github.com/aiacovazzi/FoodPrintDB-Database-Completion/blob/main/SuEatableLife%20Database/SuEatableLife_working_folder%20(includes%20colab%20notebooks)/SuEatableLife_data_extractor.ipynb) scripts in the previous level. Once regenerated must be use to replace the same file in the [CSEL_dataset](https://github.com/aiacovazzi/FoodPrintDB-Database-Completion/tree/main/SuEatableLife%20Database/CSEL_dataset) folder.
 
