@@ -16,3 +16,7 @@ The Project folder is so organized:
 *   "SuEatableLife Database" contains the files about SuEatableLife database and related working files.
 *   "SuEatableLife Integration In FoodPrintDB" contains file for the update of FoodPrintDB_v1 and support scripts.
 *   "Sustainable Food Recommender Demo" contains script implementing an example of sustainable food recommender.
+
+---
+
+For any question contact: a.gigantelli@studenti.uniba.it or a.iacovazzi6@studenti.uniba.it
