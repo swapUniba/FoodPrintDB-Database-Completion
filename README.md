@@ -13,4 +13,4 @@ The Project folder is so organized:
 *   "Docs" contains the documentation, slides and support documents concerning specific aspect of the project.
 *   "SuEatableLife Database" contains the files about SuEatableLife database and related working files.
 *   "SuEatableLife Integration In FoodPrintDB" contains file for the update of FoodPrintDB_v1 and support scripts.
-*   "Sustainable Food Reccomender Demo" contains script implementing an example of sustainable food reccomender.
+*   "Sustainable Food Recommender Demo" contains script implementing an example of sustainable food recommender.
