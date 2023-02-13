@@ -6,4 +6,4 @@ The folder is so organized:
 *   "CSEL_dataset" contains the compact and comprehensive version of the SEL database derived using our scripts.
 *   "SuEatableLife_working_folder (includes colab notebooks)" contains the python notebooks and the relative files used to derive the CSEL dataset from the original SEL Database and perform matching between FoodPrintDB_v1 and CSEL. 
 
-  Refer to the internal md file for more informations.
+    Refer to the internal md file for more informations.
