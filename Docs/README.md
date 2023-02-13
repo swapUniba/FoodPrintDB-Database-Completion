@@ -1,4 +1,4 @@
-# Docs Folder
+# Docs
 
 The folder is so organized:
 
