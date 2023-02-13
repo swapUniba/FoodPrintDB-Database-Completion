@@ -8,6 +8,8 @@ Glossary of the project:
 *	**FoodPrintDB_v1**: first version of the FoodPrintDB database by Amoruso and Fusillo, avalaible as sql scripts in [this folder](https://github.com/aiacovazzi/FoodPrintDB-Database-Completion/tree/main/SuEatableLife%20Integration%20In%20FoodPrintDB/0_FoodPrintDB_v1(DB%20creation)).
 *	**FoodPrintDB_v2**: second and updated version of the FoodPrintDB and main object of this work obtained injection the information in the CSEL dataset into FoodPrintDB_v1. Avalaible as sql scripts in [this folder](https://github.com/aiacovazzi/FoodPrintDB-Database-Completion/tree/main/SuEatableLife%20Integration%20In%20FoodPrintDB/1_FoodPintDB_v2(DB%20updates)).
 
+---
+
 The Project folder is so organized:
 
 *   "Docs" contains the documentation, slides and support documents concerning specific aspect of the project.
