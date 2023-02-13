@@ -1,4 +1,4 @@
-# SuEatableLife_working_folder (includes colab notebooks)
+# SuEatableLife Database
 
 The folder is so organized:
 *   "SuEatableLife_Food_Footprint_database.xls" is the original SEL database, also available at this [url](https://figshare.com/articles/dataset/SU-EATABLE_LIFE_a_comprehensive_database_of_carbon_and_water_footprints_of_food_commodities/13271111).
