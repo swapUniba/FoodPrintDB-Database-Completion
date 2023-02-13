@@ -11,4 +11,4 @@ The folder is so organized:
 
 How to use this folder:
 
-Copy the entire contents of this directory into a folder called "Semantics In Intelligent Information Access" and place the obtained folder in the root of a Google Drive storage, then you will able to use the notebooks.
+Copy the entire content of this directory into a folder called "Semantics In Intelligent Information Access" and place the obtained folder in the root of a Google Drive storage, then you will able to use the notebooks.
