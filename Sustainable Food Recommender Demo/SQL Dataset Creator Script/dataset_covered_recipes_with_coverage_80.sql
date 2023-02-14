@@ -29,3 +29,5 @@ END SUSTAINABILITY
  WHERE static_score IS NOT NULL
  group by ir.recipe_id
  order by static_score asc;
+ 
+select * from food_print.labeled_covered_recipes;
