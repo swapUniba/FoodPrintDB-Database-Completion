@@ -1,4 +1,4 @@
-create table ingredients_0
+create table food_print.ingredients_0
 (
     ingredient_id            int auto_increment                  primary key,
     name                     varchar(128)                        not null,
@@ -28,7 +28,7 @@ create table ingredients_0
 );
 
 create index category_id_0
-    on ingredients_0 (category_id);
+    on food_print.ingredients_0 (category_id);
 
 INSERT INTO food_print.ingredients_0 (ingredient_id, name, category_id, carbon_foot_print, carbon_foot_print_source, carbon_foot_print_weight, water_foot_print, water_foot_print_source, water_foot_print_weight, kcal, kcal_weight, protein, protein_weight, fat, fat_weight, carbohydrates, carbohydrates_weight, fiber, fiber_weight, created_at, updated_at) VALUES (1, 'cheese, brie', 28, 0.810181, 'corgis_category_mean', '100', 5060, 'corgis_category_mean', '1000', 334, 100, 20.75, 100, 27.68, 100, 0.45, 100, 0, 100, '2022-10-24 17:13:17', '2022-10-24 17:14:46');
 INSERT INTO food_print.ingredients_0 (ingredient_id, name, category_id, carbon_foot_print, carbon_foot_print_source, carbon_foot_print_weight, water_foot_print, water_foot_print_source, water_foot_print_weight, kcal, kcal_weight, protein, protein_weight, fat, fat_weight, carbohydrates, carbohydrates_weight, fiber, fiber_weight, created_at, updated_at) VALUES (2, 'sauce, barbecue', 109, null, null, '100', null, null, '1000', 172, 100, 0.82, 100, 0.63, 100, 40.77, 100, 0.9, 100, '2022-10-24 17:13:17', '2022-10-24 17:14:46');

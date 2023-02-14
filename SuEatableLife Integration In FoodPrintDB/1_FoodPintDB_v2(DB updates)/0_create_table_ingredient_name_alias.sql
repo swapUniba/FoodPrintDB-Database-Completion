@@ -1,4 +1,4 @@
-create table ingredients_name_alias
+create table food_print.ingredients_name_alias
 (
     ingredient_id int,
     name                     varchar(128)                        not null,
@@ -7,4 +7,4 @@ create table ingredients_name_alias
             on update cascade on delete cascade
 );
 create index name_alias_idx
-    on ingredients_name_alias (name);
+    on food_print.ingredients_name_alias (name);
