@@ -1,4 +1,4 @@
-# Recipes Recommender
+# Sustainable Food Recommender Demo
 
 This folder is so organized:
 *    "SQL Dataset Creator Script" folder contains an SQL file for discretizing the sustainability column.
