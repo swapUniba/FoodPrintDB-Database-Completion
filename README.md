@@ -17,7 +17,7 @@ The Project folder is so organized:
 *   "SuEatableLife Database" contains the files about SuEatableLife database and related working files.
 *   "SuEatableLife Integration In FoodPrintDB" contains file for the update of FoodPrintDB_v1 and support scripts.
 *   "Sustainable Food Recommender Demo" contains script implementing an example of sustainable food recommender.
-*   "WebApp FoodPrint" contains the code of the FoodPrint webapp originally developed by Amoruso Salvatore and Fusillo Matteo and updated in order to be compatible with the FoodPrintDB_v2. The original version is avalaible [here](https://github.com/mfusillo98/exam-semantics-for-intelligent-systems/)
+*   "WebApp FoodPrint" contains the code of the FoodPrint webapp originally developed by Amoruso Salvatore and Fusillo Matteo and updated in order to be compatible with the FoodPrintDB_v2. The original version is avalaible [here](https://github.com/mfusillo98/exam-semantics-for-intelligent-systems/).
 
 ---
 
