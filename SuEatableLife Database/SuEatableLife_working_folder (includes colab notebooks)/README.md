@@ -7,7 +7,7 @@ The folder is so organized:
 
 *   "SuEatableLife_data_extractor.ipynb" contains the scripts used for filtering and merging the SEL Database obtaining the CSEL dataset.
 
-*   "SuEatableLife_FoodPrintDB_data_joiner.ipynb" contains the scripts used to find matches between the ingredients name in the FoodPrintDB_v1 and the food item name in the CSEL dataset or the SEL cfp/wfp typology. The so obtained matches are explained by this [file](https://github.com/aiacovazzi/FoodPrintDB-Database-Completion/blob/main/Docs/Mapping_foodprintDB_sueatable.xlsx). The obtained sql insert and updates are available [here](https://github.com/aiacovazzi/FoodPrintDB-Database-Completion/blob/main/SuEatableLife%20Integration%20In%20FoodPrintDB/1_FoodPintDB_v2(DB%20updates)/2_update_cfp_wfp_from_sueatable.sql).
+*   "SuEatableLife_FoodPrintDB_data_joiner.ipynb" contains the scripts used to find matches between the ingredients name in the FoodPrintDB_v1 and the food item name in the CSEL dataset or the SEL cfp/wfp typology. The so obtained matches are explained by this [file](https://github.com/swapUniba/FoodPrintDB-Database-Completion/blob/main/Docs/Mapping_foodprintDB_sueatable.xlsx). The obtained sql insert and updates are available [here](https://github.com/swapUniba/FoodPrintDB-Database-Completion/blob/main/SuEatableLife%20Integration%20In%20FoodPrintDB/1_FoodPintDB_v2(DB%20updates)/2_update_cfp_wfp_from_sueatable.sql).
 
 ---
 
