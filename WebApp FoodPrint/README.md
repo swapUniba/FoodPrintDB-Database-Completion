@@ -9,7 +9,7 @@ How to install the webapp locally:
 
 *	Remaining in the same file, insert the access data for the database in the appropriate constants.
 
-*	Install the FoodPrintDB_v2 using the scripts present in this [folder](https://github.com/swapUniba/FoodPrintDB-Database-Completion/tree/main/Sustainable%20Food%20Recommender%20Demo)
+*	Install the FoodPrintDB_v2 using the scripts present in this [folder](https://github.com/swapUniba/FoodPrintDB-Database-Completion/tree/main/SuEatableLife%20Integration%20In%20FoodPrintDB)
 
 *	Use [Composer](https://getcomposer.org) to install the dependencies (there is already a composer.json / composer.lock file), so you only need to run "composer install".
 
