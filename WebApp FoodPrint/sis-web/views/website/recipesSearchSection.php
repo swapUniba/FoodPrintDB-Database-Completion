@@ -162,7 +162,7 @@
                         <span class="mb-3">
                               ${
                                     recipe.ingredients_list.map(i =>{
-                                        let color = i.carbon_foot_print >= 2 ? "text-danger" : i.carbon_foot_print <= 1 ? "text-success" : ""
+                                        let color = i.carbon_foot_print >= 3 ? "text-danger" : i.carbon_foot_print <= 1 ? "text-success" : ""
                                         return `<span class="${color}">${i.name} </span>`
                                     })
                                 }
